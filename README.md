@@ -22,7 +22,7 @@ __Barcode Flutter is a Flutter library for simple and fast Barcode rendering via
 - Initial release
 
 # Features
-- Supports code type: __Code39__, __Code93__, __Code128__, __EAN13__, __EAN8__, __UPCA__, __UPCE__
+- Supports code type: __Code39__, __Code93__, __Code128__, __EAN13__, __EAN8__, __UPCA__, __UPCE__, __Codabar (NW-7)__
 - Supports render with or without text label
 - Supports adjusting the bar width
 - No internet connection required
